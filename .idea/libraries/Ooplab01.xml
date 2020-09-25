@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Ooplab01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Ooplab01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
